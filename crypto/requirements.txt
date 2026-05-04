@@ -1,0 +1,2 @@
+# No external dependencies required
+# hash_cracker.py and password_generator.py use Python stdlib only
