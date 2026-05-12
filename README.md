@@ -14,6 +14,13 @@ A modular cybersecurity toolkit for educational purposes and ethical security re
 | 🌐 Network | Port scanner, ARP detector, Packet sniffer | ✅ Ready |
 | 💻 Web | Subdomain finder, Header checker, XSS scanner | ✅ Ready |
 | 🔑 Crypto | Hash cracker, Password generator | ✅ Ready |
+---
+
+## 🔗 Related Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛡️ NetSentinel | Real-time Network Intrusion Detection System (IDS) | [GitHub](https://github.com/berfin-sec/NetSentinel) |
 
 ---
 
